@@ -4,4 +4,4 @@
 
 ### postrgres_query.sql tam znajduje sie zapytanie tworzace nasza relacje oraz zapytania pozwalajce na wizualizacje danych w Power BI
 
-### projekt.pbix wygenerowany raport w formacie .pbix
+### projekt.pbix wygenerowany raport w formacie .pdf
